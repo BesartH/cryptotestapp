@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="ok">OK</string>
+    <string name="id">ID:</string>
+    <string name="last_24_label">Coin data for the last 24 hours</string>
+    <string name="market_caps">Market Caps: </string>
+    <string name="latest_prices">Latest prices: </string>
+    <string name="search">Search coins</string>
+    <string name="error_title">Failed!</string>
+    <string name="error_message">Loading data from API failed! Please try again.</string>
+</resources>
